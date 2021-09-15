@@ -1,5 +1,5 @@
-
 [![Gopheer Holds The Rule](https://github.com/hyperjumptech/grule-rule-engine/blob/master/gopher-grule.png?raw=true)](https://github.com/hyperjumptech/grule-rule-engine/blob/master/gopher-grule.png?raw=true)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjinagamvasubabu%2Fgrule-rule-engine.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjinagamvasubabu%2Fgrule-rule-engine?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/hyperjumptech/grule-rule-engine.svg?branch=master)](https://travis-ci.org/hyperjumptech/grule-rule-engine)
 [![Build Status](https://circleci.com/gh/hyperjumptech/grule-rule-engine.svg?style=svg)](https://circleci.com/gh/hyperjumptech/grule-rule-engine)
@@ -237,3 +237,7 @@ Yes. We need contributors to make Grule even better and useful to the Open Sourc
 
 If you really want to help us, simply `Fork` the project and apply for Pull Request.
 Please read our [Contribution Manual](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCTS.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjinagamvasubabu%2Fgrule-rule-engine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjinagamvasubabu%2Fgrule-rule-engine?ref=badge_large)
